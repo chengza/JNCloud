@@ -1,0 +1,1 @@
+JNCloud 的目标是使用java语言和框架模拟nextcloud的服务。
